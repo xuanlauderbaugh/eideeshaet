@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toiteghai.runcloudsman.top/sitemap.xml
